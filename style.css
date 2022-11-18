@@ -1,0 +1,56 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    height: 43.5rem;
+    background: #F0FFF0;
+}
+.nav-link:hover{
+    background: lavender;
+}
+.below{
+    margin-top: 2rem;
+}
+.textleft p{
+    font-size: max(.95rem, .84vw);
+    /* explanation-- font size lg te 16+ px(.84vw) thakbe xs a 15+ px(.95rem) hoye jabe */
+}
+.card{
+    border-radius: 10px;
+    background: #F8FFFB;
+}
+.card-img-top{
+    margin-top: 4.5rem;
+}
+.whitebg{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.card2{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    border: none;
+}
+.course{
+    margin-top: 6rem;
+}
+.course_text{
+    color: #413960;
+}
+footer{
+    height: 369px;
+    background: #282531;
+}
+footer p{
+    color: aliceblue;
+}
+.footer_text{
+    font-size: max(.90rem, .84vw);
+}
+.footer_course{
+    line-height: 30px;
+}
+.copyright{
+    font-size: max(.75rem, .73vw);
+}
